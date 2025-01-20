@@ -14,6 +14,11 @@ CoinOS is a free Lightning wallet and payment page, and it is said to be
   - Download the whole library
   - Test the Demo project
   - Read the Demo project's README section for more information.
+ 
+- [C# .Net](https://github.com/RafaelEstevamReis/Simple.Coinos):
+  - NuGet Package: [Simple.Coinos](https://www.nuget.org/packages/Simple.Coinos/)
+  - Download the whole library
+  - Read the readme and test the project
 
  ## Contributing
 
