@@ -9,7 +9,10 @@ CoinOS is a free Lightning wallet and payment page, and it is said to be
 - "tech" documentation: [GitHub Link](https://github.com/coinos/coinos-server/blob/master/index.ts)
 
 ## Integrations
-- [Delphi / Lazarus](https://bitbucket.org/idealtecd/ideal-library/src/master/Demos/Api/Bitcoin/CoinOS/): please, download the whole library, test the Demo project. Read its README section for more information.
+- [Delphi / Lazarus](https://bitbucket.org/idealtecd/ideal-library/src/master/Demos/Api/Bitcoin/CoinOS/):
+  - Download the whole library
+  - Test the Demo project
+  - Read its Demo project README section for more information.
 
  ## Contributing
 
