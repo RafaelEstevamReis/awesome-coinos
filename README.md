@@ -20,6 +20,11 @@ CoinOS is a free Lightning wallet and payment page, and it is said to be
   - Download the whole library
   - Read the readme and test the project
 
+- [WooCommerce](https://github.com/Mnpezz/coinos-woo-payment):
+  - A WordPress plugin to accept Bitcoin Lightning payments via CoinOS in WooCommerce stores.
+  - Install directly into your WordPress plugins folder and configure your CoinOS API key.
+  - [Setup guide](https://github.com/Mnpezz/coinos-woo-payment#readme)
+
  ## Contributing
 
 If you'd like to add something to this list, please submit a [Pull Request on GitHub](https://github.com/igorbastosib/awesome-coinos).
